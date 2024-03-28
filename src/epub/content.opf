@@ -38,14 +38,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008113166</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Aubrey, a young gentleman moving in London society of the early 1800s, meets the mysterious Lord Ruthven, recently arrived to London, at a party. Aubrey finds himself intrigued by the cold and expressionless Ruthven, and soon finds himself agreeing to travel with him on a trip across the continent. As their trip progresses, Aubrey is shocked at Ruthven’s sadistic and degenerate behavior, and can’t help but note how anyone who Ruthven meets ends up debauched and ruined.&lt;/p&gt;
+			&lt;p&gt;Dismayed by his new friend’s eagerness to wallow in depravity and licentiousness, Aubrey parts ways and goes to Greece. There he meets the young daughter of an innkeeper, who warns him of a local legend … the legend of the vampyre.&lt;/p&gt;
+			&lt;p&gt;In the summer of 1816, known as the Year Without a Summer, &lt;a href="https://standardebooks.org/ebooks/mary-shelley"&gt;Mary Shelley&lt;/a&gt;, Percy Bysshe Shelley, and Claire Clairmont went to visit Lord Byron and his physician, &lt;a href="https://standardebooks.org/ebooks/john-william-polidori"&gt;John William Polidori&lt;/a&gt;, in Geneva for what was supposed to be a vacation of outdoor relaxation. Bad weather forced them to stay indoors, and to pass the time, Byron suggested a contest in which the participants try to compose the best ghost story. Mary Shelley composed what would become &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mary-shelley/frankenstein"&gt;Frankenstein&lt;/a&gt;&lt;/i&gt;; Polidori composed “The Vampyre,” the first appearance in Western literature of what we now recognize as the classic vampire trope.&lt;/p&gt;
+			&lt;p&gt;“The Vampyre” was based on an unpublished fragment of a story by Byron. In 1819 Polidori published his story in the &lt;i&gt;New Monthly Magazine&lt;/i&gt;, but the publisher, seemingly swept up in the Byromania surrounding the charismatic lord, misattributed the story to Byron himself. As the tale grew in popularity, both Byron and Polidori strenuously argued for the correct attribution; for a while, the best Polidori got was the removal of Byron’s name, but without the addition of his own.&lt;/p&gt;
+			&lt;p&gt;Buoyed by its association with the popular Lord Byron and playing straight into the public’s interest in Gothic fiction, “The Vampyre” became a huge success, and the glamorous and charismatic figure of the undead aristocrat immediately began influencing contemporary writers. Eighty years later &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Bram Stoker&lt;/a&gt; would write &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;Dracula&lt;/a&gt;&lt;/i&gt;, whose own Count, directly inspired by Polidori’s Lord Ruthven, would seal the vampire trope into the form still familiar to readers over a century later.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6087</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Vampyre/ZMsBAAAAQAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Vampyre</meta>
