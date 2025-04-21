@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="content.opf">
-		<ignore>
-			<code>m-027</code>
-			<reason>This ebook is a single short story, so a collection semantic is not required.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
