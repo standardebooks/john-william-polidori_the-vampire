@@ -59,10 +59,10 @@
 		<meta property="file-as" refines="#author">Polidori, John William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_William_Polidori</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50020458</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">John Laporte</dc:contributor>
 		<meta property="file-as" refines="#artist">Laporte, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Laporte_(artist)</meta>
