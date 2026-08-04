@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008113166</meta>
 		<meta property="schema:genre">Horror</meta>
-		<dc:abstract>A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.</dc:abstract>
+		<meta property="schema:abstract">A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.</meta>
 		<dc:description>
 			&lt;p&gt;Aubrey, a young gentleman moving in London society of the early 1800s, meets the mysterious Lord Ruthven, recently arrived to London, at a party. Aubrey finds himself intrigued by the cold and expressionless Ruthven, and soon finds himself agreeing to travel with him on a trip across the continent. As their trip progresses, Aubrey is shocked at Ruthven’s sadistic and degenerate behavior, and can’t help but note how anyone who Ruthven meets ends up debauched and ruined.&lt;/p&gt;
 			&lt;p&gt;Dismayed by his new friend’s eagerness to wallow in depravity and licentiousness, Aubrey parts ways and goes to Greece. There he meets the young daughter of an innkeeper, who warns him of a local legend … the legend of the vampire.&lt;/p&gt;
